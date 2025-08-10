@@ -10,9 +10,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-native-camera-roll/camera-roll": "^7.10.2",
+    "@react-native/new-app-screen": "0.80.2",
+    "@shopify/react-native-skia": "^2.2.2",
+    "hoist-non-react-statics": "^3.3.2",
     "react": "19.1.0",
     "react-native": "0.80.2",
-    "@react-native/new-app-screen": "0.80.2"
+    "react-native-gesture-handler": "^2.28.0",
+    "react-native-image-picker": "^8.2.1",
+    "react-native-vision-camera": "^4.7.1",
+    "react-native-vision-camera-face-detector": "^1.8.8"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
